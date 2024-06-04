@@ -21,3 +21,12 @@ Final Project: Putting many of the techniques together into an XGB Classifier
 Final project files from my Internet of Things course. I built a multi-class classifier with XG Boost on the Spotify Songs dataset. Then built a small Streamlit wrapper to control model generation, and a file to launch it all. In retrospect, should have made the wrapper do something simpler, like load a saved model and print results graphs from it.
 
 
+/nlp : Natural Language Processing class. Assignments usink NLTK and spaCy for NLP tasks.
+
+Assignment 2: NLP basics with spaCy. Counting tokens, sentences, searching for tokens, etc.
+
+Assignment 4: Topic Analysis on a dataset of text questions
+
+Assignment 5 - Parts of Speech identification and analysis; dependancy trees
+
+Assignment 7/final project: Topic Modelling revisited, on a dataset of classic writing
