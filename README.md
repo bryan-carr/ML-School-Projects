@@ -17,6 +17,23 @@ Assignment 5: Bayesian Methods; Naive Bayes classifier
 Final Project: Putting many of the techniques together into an XGB Classifier
 
 
+/deep-learning:
+Deep Learning class.
+
+Assignment 2: Basic linear neural network, on simplified housing price dataset
+
+Assignment 3: Convolutional Neural Network for MNIST digit recognition task
+
+Assignment 4: Recurrent Neural Network for stock price prediction (mine all overfit, but this is a bad task for a neural network without some additional features to help in the prediction)
+
+Assignment 5: NLP and Sentiment Analysis - predicting sentiment of IMDB movie reviews
+
+Assignment 6: Autoencoder - building a CNN autoencoder for the MINST handwritten digits we used earlier
+
+Assingment 7: Recommender Systems - Building user-movie recommender systems based on the ML-100k Movielens movie rating dataset
+
+
+
 /iot :
 Final project files from my Internet of Things course. I built a multi-class classifier with XG Boost on the Spotify Songs dataset. Then built a small Streamlit wrapper to control model generation, and a file to launch it all. In retrospect, should have made the wrapper do something simpler, like load a saved model and print results graphs from it.
 
