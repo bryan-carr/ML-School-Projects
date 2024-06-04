@@ -47,3 +47,10 @@ Assignment 4: Topic Analysis on a dataset of text questions
 Assignment 5 - Parts of Speech identification and analysis; dependancy trees
 
 Assignment 7/final project: Topic Modelling revisited, on a dataset of classic writing. The Test+Train data are for this assignment
+
+
+/computer-vision : Computer Vision Class. Some of these assignments featured big tempaltes to follow (not as much original work, so I feel I learned less); some feature large images and videos in the notebooks which impose size limitations.
+
+Assignment 2: CNNs for Computer Vision Classification tasks - similar to the other CNN assignment, I built CNNs for the MNIST dataset, then for the CIFAR-10 image recognition dataset.
+
+Assignment 4: Feature Extraction - extracting a number of features from images, mainly facial. Also doing some Object Detection and counting (number of fruits on a tree). Heavily tempalted :(
