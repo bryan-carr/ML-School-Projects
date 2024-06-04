@@ -4,7 +4,7 @@ Assignments and Projects from my MS, 2021-2023
 Assignment files from my Machine Learning course. Course followed a home credit risk dataset from Kaggle all the way through, using different techniques on it.
 Data: https://www.kaggle.com/competitions/home-credit-default-risk/data
 
-Assignment 1: EDA
+Assignment 1: EDA \n
 Assignment 2: Decision Trees and Random Forests
 Assignment 3: Unsupervised Learning; k-means clustering; Agglomerative clustering; PCA (Principal Component Analysis)
 Assignment 4: Feature Selection & Engineering; Data Cleaning/Munging; Imputation; dealing with Imbalanced Data
