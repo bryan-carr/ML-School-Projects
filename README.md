@@ -29,4 +29,4 @@ Assignment 4: Topic Analysis on a dataset of text questions
 
 Assignment 5 - Parts of Speech identification and analysis; dependancy trees
 
-Assignment 7/final project: Topic Modelling revisited, on a dataset of classic writing
+Assignment 7/final project: Topic Modelling revisited, on a dataset of classic writing. The Test+Train data are for this assignment
