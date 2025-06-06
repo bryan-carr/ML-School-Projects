@@ -13,6 +13,13 @@ https://github.com/bryan-carr/ML-School-Projects/tree/main/machine-learning
 ## Areas for Improvement
 This was done in 2022, earlier in my coding and machine learning adventures. At the time, I was mostly used to simple single-file data sets, such as the Titanic or Iris data. This dataset has a star schema, with linkages between different files. I therefore did not make much use of the secondary files, sticking mainly to the 'main' data file, which deals with applicants' personal factors (job, home, income, whether they have other loans, etc). I could have made much better use of the historical data in those secondary files, and also investigated time-series techniques (though those were not covered).
 
-## Week 1 - Exploratory Data Analysis
-In the first week/assignment, we did EDA on the data set, looking for basic trends
+### Assignment 1 - Exploratory Data Analysis
+### Assignment 2 - Decision Trees and Random Forests
+### Assignment 3 - Unsupervised Methods (Principal Component Analysis, Hierarchical Clustering and Dendographs, K-Means Clustering)
+### Assignment 4 - Feature Selection, Imputing and Feature Engineering - deeper dives into cleaning and filling Nulls, and the importance of features
+### Assignment 5 - Bayesian Methods, Naive Bayes
+### Final Assignment -- putting it all together, including building a Classification model with XGBoost
 
+
+## Contributing
+This project is mainly for show. Feel free to contact me if you are interested in more info.
